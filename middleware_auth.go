@@ -1,4 +1,4 @@
-package jwtv4
+package jwt4
 
 import (
 	"context"
