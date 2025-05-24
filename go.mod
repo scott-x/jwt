@@ -1,4 +1,4 @@
-module github.com/scott-x/jwt4
+module github.com/scott-x/jwt/v4
 
 go 1.24.3
 
